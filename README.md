@@ -1,2 +1,2 @@
 # Discipline-tracker-
-This is a website about a simple website I made of tracking disiplince, note this is one of my begging level websites so its basic practice from code pen 
+This is a basic website for tracking discipline created as a begginer level practice project its a simple HTML and CSS to get down the begging of HTML and CSS 
